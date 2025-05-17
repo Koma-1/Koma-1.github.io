@@ -1,0 +1,7 @@
+<ul>
+    {%- for product in site.data.products -%}
+    <li>
+        <a href="{{ product.url | relative_url }}">{{ product.name }}</a> ({{product.stack}}): <br/> {{product.description}}
+    </li>
+    {%- endfor -%}
+</ul>

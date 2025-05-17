@@ -1,0 +1,16 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: Products
+    url: /products.html
+
+  - title: Blog
+    url: /blog.html
+    post_list:
+      limit: 5
+      show_more: true
+
+  - title: GitHub
+    url: https://github.com/Koma-1
+

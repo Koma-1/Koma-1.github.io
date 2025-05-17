@@ -1,0 +1,21 @@
+theme_config:
+  date_format: "%Y-%m-%d" # customize how date is formatted
+
+collections:
+  posts:
+    permalink: /blog/:title
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      locale: "ja_JP"
+
+title: Test
+author: Koma-1
+locale: "ja_JP"
+url: "https://koma-1.github.io"
+
+plugins:
+  - jekyll-seo-tag
