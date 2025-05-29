@@ -1,8 +1,8 @@
 - name: Toy Ruler-based Vector Graphics Editor
   url: https://github.com/Koma-1/toy-ruler-editor
   stack: TypeScript
-  description: "ルーラーを用いて相対位置を保持するグラフィックスエディタ。外部ライブラリ未使用。"
+  description: "ルーラーを用いて相対位置を保持するグラフィックスエディタ。フレームワーク・外部ライブラリ未使用。2025年。"
 - name: Toy OTF Parser
   url: https://github.com/Koma-1/toy-otf-parser-nim
   stack: Nim
-  description: "OpenTypeフォントファイルのパーサー。外部ライブラリ未使用。"
+  description: "OpenTypeフォントファイルのパーサー。外部ライブラリ未使用。2021年頃。"
