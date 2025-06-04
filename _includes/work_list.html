@@ -1,0 +1,13 @@
+<ul>
+    {%- for work in site.data.works -%}
+    <li>
+        <a href="{{ work.url | relative_url }}">{{ work.name }}</a> ({{work.stack}}): <br/> {{work.description}}
+        {%- if work.links.size > 0 -%}
+        <br/>
+        {%- for link in work.links -%}
+        <a href="{{ link.url }}">{{ link.name }}</a>&emsp;
+        {%- endfor -%}
+        {%- endif -%}
+    </li>
+    {%- endfor -%}
+</ul>

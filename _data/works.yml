@@ -2,6 +2,9 @@
   url: https://github.com/Koma-1/toy-ruler-editor
   stack: TypeScript
   description: "ルーラーを用いて相対位置を保持するグラフィックスエディタ。フレームワーク・外部ライブラリ未使用。2025年。"
+  links:
+    - name: "デモ"
+      url: https://koma-1.github.io/toy-ruler-editor
 - name: Toy OTF Parser
   url: https://github.com/Koma-1/toy-otf-parser-nim
   stack: Nim

@@ -2,8 +2,8 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: Products
-    url: /products.html
+  - title: Works
+    url: /works.html
 
   - title: Blog
     url: /blog.html

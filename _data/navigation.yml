@@ -1,7 +1,7 @@
 - name: Home
   link: /
-- name: Products
-  link: /products.html
+- name: Works
+  link: /works.html
 - name: Blog
   link: /blog.html
 - name: GitHub
