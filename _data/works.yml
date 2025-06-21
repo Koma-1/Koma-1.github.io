@@ -5,7 +5,27 @@
   links:
     - name: "デモ"
       url: https://koma-1.github.io/toy-ruler-editor
+- name: contactsheet-go
+  url: https://github.com/Koma-1/contactsheet-go
+  stack: Go
+  description: "画像ファイルからコンタクトシート（サムネイルグリッド）を生成するのCLIツール。2025年。"
 - name: Toy OTF Parser
   url: https://github.com/Koma-1/toy-otf-parser-nim
   stack: Nim
-  description: "OpenTypeフォントファイルのパーサー。外部ライブラリ未使用。2021年頃。"
+  description: "OpenTypeフォントファイルのパーサー。外部ライブラリ未使用。2021年頃開発・2025年整理。"
+- name: toy-inflate-nim
+  url: https://github.com/Koma-1/toy-inflate-nim
+  stack: Nim
+  description: "Deflateのデコーダー。外部ライブラリ未使用。2023年頃開発・2025年整理。"
+- name: Koma-1.github.io
+  url: https://github.com/Koma-1/Koma-1.github.io
+  stack: Jekyll
+  description: このウェブサイト。Jekyllテーマ <a href="https://github.com/riggraz/no-style-please">no style, please!</a> を元に作成。2025年。
+- name: Koma-1/9cc
+  url: https://github.com/Koma-1/9cc
+  stack: C
+  description: <a href="https://www.sigbus.info/compilerbook">低レイヤを知りたい人のためのCコンパイラ作成入門</a>の写経。2024年。
+- name: Koma-1/os_1000lines
+  url: https://github.com/Koma-1/os_1000lines
+  stack: C
+  description: <a href="https://operating-system-in-1000-lines.vercel.app/ja/">Writing an OS in 1,000 Lines</a> の写経。2024年。
